@@ -11,6 +11,7 @@ This is a test documentation file. Here are some features I want to test in Mark
   - [License](#license)
   - [Diagaram](#diagaram)
   - [Math](#math)
+  - [Branched](#branched)
 
 ## Overview
 
@@ -42,3 +43,7 @@ graph LR
 $$
 E = mc^2
 $$
+
+## Branched  
+
+This was done in a branch
